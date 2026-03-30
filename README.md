@@ -180,8 +180,7 @@ Os modelos apresentam **underfitting**, não overfitting. Mesmo o Decision Tree 
 │   ├── amazon_cells_labelled.txt              # Dataset Amazon
 │   ├── yelp_labelled.txt                      # Dataset Yelp
 │   └── imdb_labelled.txt                      # Dataset IMDB
-└── workflow/
-    └── knime-workflow.knwf                    # Workflow exportado do KNIME
+└── knime-workflow.knwf                    # Workflow exportado do KNIME
 ```
 
 > **Nota:** Para exportar o workflow do KNIME, vá em `File > Export KNIME Workflow` e salve o arquivo `.knwf`.
